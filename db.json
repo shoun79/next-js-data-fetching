@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Exploring all the Mountains",
+            "description": "Join us on an unforgettable journey through the majestic mountains. Discover breathtaking views, hidden trails, and the serenity of nature.",
+            "likes_count": 141
+        },
+        {
+            "id": 2,
+            "title": "Delicious Vegan Recipes",
+            "description": "Transform your meals with these mouthwatering vegan recipes. Easy to follow and packed with nutrients, perfect for any occasion.",
+            "likes_count": 254
+        },
+        {
+            "id": 3,
+            "title": "Tech Trends in 2024",
+            "description": "Stay ahead of the curve with the latest tech trends. From AI advancements to wearable tech, learn what's shaping the future.",
+            "likes_count": 345
+        },
+        {
+            "id": 4,
+            "title": "Meditation for Beginners",
+            "description": "Discover the benefits of meditation with our beginner's guide. Learn techniques to reduce stress, improve focus, and enhance well-being.",
+            "likes_count": 98
+        },
+        {
+            "id": 5,
+            "title": "DIY Home Projects",
+            "description": "Get creative with these DIY home projects. Fun and easy ways to spruce up your living space, suitable for all skill levels.",
+            "likes_count": 175
+        },
+        {
+            "id": 6,
+            "title": "Travel Tips for Europe",
+            "description": "Planning a trip to Europe? Check out our essential travel tips to make the most of your adventure. From budgeting to must-see sites.",
+            "likes_count": 220
+        }
+    ]
+}
